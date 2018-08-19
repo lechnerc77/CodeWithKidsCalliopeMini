@@ -1,5 +1,4 @@
 # Code With Kids - Übungen und Musterlösungen für den Calliope Mini
-===================================================================
 Dieses Repository enthält die Musterlösungen zu einigen Übungen für den [Calliope Mini 2017](https://www.calliope.cc/).
 Die Übungen sind für die ersten Programmiererfahrungen von Kindern ab der dritten Klasse gedacht.
 
@@ -8,7 +7,6 @@ In diesem README File werden die einzelnen Aufgabenstellungen kurz beschrieben. 
 * Als HEX Datei zum direkten Aufspielen auf den Calliope Mini
 
 ## Übungsbeschreibung
---------------------
 ### Der Calliope Mini als Klavier
 
 Programmiere ein Mini-Klavier mit Hilfe der Pins des Calliope Mini. Je nachdem welchen Pin Du beim Calliope Mini gedrückt hälst, soll ein anderer Ton gespielt werden.
